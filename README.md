@@ -6,8 +6,10 @@ The system has two interfaces:
    - general user(client) interface - accessed by customers who are registered to Maze Bank.
 ### NOTE
 Install all the dependencies on the requirements.txt for the code to run smoothly.<br>
-The default admin username
+The default admin ID
 
-      Admin001
+      001
 Default admin password
+
+      1
     
