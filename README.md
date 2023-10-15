@@ -13,10 +13,13 @@ Compile
 Run
 
       ./bank
-The default admin ID
+Default admin ID
 
       001
 Default admin password
 
       1
     
+
+### Note
+You can modify the code to make the superadmin login credentials more secure
