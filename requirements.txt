@@ -1,0 +1,10 @@
+openSSL
+ncurses library
+figlet
+
+Installation on Ubuntu
+openSSl - sudo apt install openssl
+
+ncurses - sudo apt-get install libncurses5-dev libncursesw5-dev
+
+figlet - sudo apt install figlet
