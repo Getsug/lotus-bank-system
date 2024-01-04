@@ -7,10 +7,10 @@ Login Page<br>
 <img src="/assets/login-page.png" width="50%"><br>
 
 Admin Page<br>
-<img src="/assets/admin-page.png" width="50%"><br>
+<img src="/assets/admin.png" width="50%"><br>
 
 Customer Page<br>
-<img src="/assets/customer-page.png" width="50%"><br>
+<img src="/assets/customer.png" width="50%"><br>
 
 Maze Bank system is a Linux terminal based program that is modelled after real bank systems in order to provide basic services such deposit, withdrawal and transfer of funds to clients.<br>
 The system has two interfaces:
