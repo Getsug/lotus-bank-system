@@ -1,4 +1,4 @@
-## lotus-bank-system
+## lotus-bank
 ## About The Project
 
 <p float="left">
