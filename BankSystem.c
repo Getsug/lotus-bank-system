@@ -176,7 +176,7 @@ void logoDisplay()
     {
         //char *argv[] = {"figlet", "-c", "MAZE BANK", NULL};
         //execvp(argv[0], argv);
-        execlp("figlet", "figlet", "-c", "-k", "-t","MAZE BANK", NULL);
+        execlp("figlet", "figlet", "-c", "-k", "-t","LOTUS BANK", NULL);
     }
 
     wait(NULL);
@@ -290,7 +290,7 @@ void welcomePage()
 {
     char line1[] = "WELCOME";
     char line2[] = "TO";
-    char line3[] = "MAZE BANK";
+    char line3[] = "LOTUS BANK";
 
 
     int len1 = strlen(line1), len2 = strlen(line2), len3 = strlen(line3);
