@@ -1,4 +1,4 @@
-## maze-bank-system
+## lotus-bank-system
 ## About The Project
 
 <p float="left">
@@ -12,7 +12,7 @@
 </p><br>
 
 
-Maze Bank system is a Linux terminal based program that is modelled after real bank systems in order to provide basic services such deposit, withdrawal and transfer of funds to clients.<br>
+Lotus Bank system is a Linux terminal based program that is modelled after real bank systems in order to provide basic services such deposit, withdrawal and transfer of funds to clients.<br>
 The system has two interfaces:
 
    - admin - accessed by authorized bank staff such as bank cashiers and other bank administrators
