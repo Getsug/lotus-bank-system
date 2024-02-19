@@ -1,11 +1,8 @@
 ## maze-bank-system
 ## About The Project
-<P>
-   <img src="/assets/splash-screen.png"/>&nbsp;&nbsp;
-</P><br>
 
 <p float="left">
-   <img src="/assets/welcome.png" width="49%"/>&nbsp;&nbsp;
+   <img src="/assets/splash-screen.png" width="49%"/>&nbsp;&nbsp;
    <img src="/assets/login-page.png" width="49%"/>
 </p><br>
 
